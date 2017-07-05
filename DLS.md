@@ -16,7 +16,7 @@ function DFS(root)
 function DLS(node, depth)
   
   
-  if depth = 0 and node is a goal
+    if depth = 0 and node is a goal
        
        return node
     if depth > 0
